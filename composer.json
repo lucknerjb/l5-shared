@@ -9,8 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-          "Lucknerjb\\Shared\\Utils\\": "src\\Utils",
-          "Lucknerjb\\Shared\\Libs\\": "src\\Libs"
+          "Lucknerjb\\Shared\\": ""
         }
     }
 }
