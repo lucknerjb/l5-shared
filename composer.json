@@ -1,0 +1,10 @@
+{
+    "name": "lucknerjb/l5-shared",
+    "authors": [
+        {
+            "name": "Luckner Jr",
+            "email": "lucknerjb@gmail.com"
+        }
+    ],
+    "require": {}
+}
